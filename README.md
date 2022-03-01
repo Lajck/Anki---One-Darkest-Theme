@@ -1,6 +1,6 @@
 # Anki One Darkest Theme
 
-> A theme for the ReColor Anki add-on 
+> A theme for the [ReColor](https://github.com/AnKingMed/AnkiRecolor) Anki add-on 
 
 ![image](https://user-images.githubusercontent.com/9508518/156137852-55fb9d4c-7911-447d-bd92-f788e1552f0d.png)
 
